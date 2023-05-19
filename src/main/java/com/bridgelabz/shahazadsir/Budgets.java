@@ -24,3 +24,5 @@ public class Budgets {
 
     }
 }
+
+// Output : The sum of people's budgets : 65700

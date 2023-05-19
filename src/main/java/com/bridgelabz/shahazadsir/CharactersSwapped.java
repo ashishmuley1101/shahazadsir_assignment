@@ -48,3 +48,6 @@ public class CharactersSwapped {
     }
 
 }
+
+// Output : .at, dog, and mouseC
+

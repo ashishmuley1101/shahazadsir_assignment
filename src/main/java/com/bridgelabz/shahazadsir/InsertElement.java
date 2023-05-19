@@ -41,3 +41,11 @@ public class InsertElement {
         }
     }
 }
+
+// Output : Enter the index position do want to enter : 6
+//          Enter the element : 14
+//          Before inserting the element :
+//          2 5 12 56 73 90 1
+//          After inserting the element :
+//          2 5 12 56 73 90 14 1
+

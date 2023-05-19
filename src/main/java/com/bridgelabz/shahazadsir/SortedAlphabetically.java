@@ -40,3 +40,6 @@ public class SortedAlphabetically {
 
     }
 }
+
+//Output : [1, 2, 3]
+//         [Apple, Google, Microsoft]

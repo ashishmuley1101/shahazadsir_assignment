@@ -47,3 +47,13 @@ public class FurnitureMain {
         furniture.purchaseDetails();
     }
 }
+
+// Output : Enter the type and material for furniture Choose from below list : table
+//          Choose type of furniture : Table, Bed, Couch and Chair
+//          Choose material of furniture : Plastic, Stainlesssteel, wood : wood
+//          ----------------------------------------
+//          Furniture's type : table
+//          Furniture's material : wood
+//          Furniture's MRP Price Rs. 8000.0
+//          Total Discount Rs. 1200.0
+//          Furniture Price after Discount Rs. 6800.0
